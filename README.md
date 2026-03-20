@@ -18,14 +18,16 @@ This project demonstrates the implementation of serial communication using the *
 1. Clone the repository.
 2. Open the desired configuration folder in **STM32CubeIDE**.
 3. Compile and flash the code to your STM32F411 board.
-4. Refer to the `Documentation/` folder for the full technical presentation.
 
 ## 📁 Repository Structure
 * `/Config1-UART-to-PC`: Source code for PC-based communication.
 * `/Config2-Internal-USART`: Source code for inter-peripheral communication.
-* `/Media`: Demonstration videos of the hardware in action.
 * `/Documentation`: Technical report (French) and project presentation.
 
 ## 🔧 Tools Used
-* **Hardware:** STM32F411 (BlackPill/Nucleo), USB-TTL Module, Multimeter.
+* **Hardware:** STM32F411 DISCOVERY, USB-TTL Module, Multimeter.
 * **Software:** STM32CubeIDE, PuTTY.
+
+## 📺 Project Demonstrations
+To see the hardware validation in action without downloading the source files, you can view the testing videos here:
+* 🔗 [**View Project Media on Google Drive**](https://drive.google.com/drive/folders/12nkhgyfenuASvPNbNkTc4bNq4IbpNtzI?usp=sharing)
